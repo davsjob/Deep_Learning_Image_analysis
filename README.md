@@ -1,2 +1,2 @@
-## Assignments and files for advanced level course in deep learning.
-Name DL4IA given by Uppsala University.
+## Assignments and files for advanced level course in deep learning for image analysis (DL4IA).
+Uppsala University.
